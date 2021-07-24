@@ -4,6 +4,8 @@
 
 * ✔️ Kotlin
 * ✔️ DI:[ Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
+* ✔️ [Retrofit](https://github.com/square/retrofit)
+* ✔️ [Gson](https://github.com/google/gson)
 * ✔️ [View binding](https://developer.android.com/topic/libraries/view-binding)
 * ✔️ [Coroutines](https://developer.android.com/topic/libraries/architecture/coroutines)
 * ✔️ [AndroidX](https://developer.android.com/jetpack/androidx)
