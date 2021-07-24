@@ -9,6 +9,8 @@
 * ✔️ [AndroidX](https://developer.android.com/jetpack/androidx)
 * ✔️ [Google Maps SDK](https://developers.google.com/maps/documentation/android-sdk/overview)
 
+## Preview
+![alt-text](docs/record.gif)
 
 ## Create your route
 ```
