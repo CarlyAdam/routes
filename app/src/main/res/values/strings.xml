@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">routes</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="no_connection">Connection problem, please check your connection.</string>
+    <string name="no_location_error">No location enabled</string>
+    <string name="ruta_error">Imposible to draw the route</string>
+</resources>
